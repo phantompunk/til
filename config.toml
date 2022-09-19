@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Rigo Moran'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Today I Learned"
+Content = """
+Inspired by Josh Branchaud's [TIL]() and Lee Bryon's [today i learned](https://leebyron.com/til/) showcase Collection of useful snippets or scripts I learned over the last few years. Some are my own creation others I've picked up from other engineers.
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/phantompunk/til"
+
+[[params.socialIcons]]
+name = "KoFi"
+url = "https://ko-fi.com/adityatelange"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "index.xml"
