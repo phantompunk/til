@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://rigomoran.com/til/'
 languageCode = 'en-us'
 title = 'Rigo Moran'
 theme = 'PaperMod'
@@ -12,10 +12,6 @@ Inspired by Josh Branchaud's [TIL]() and Lee Bryon's [today i learned](https://l
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/phantompunk/til"
-
-[[params.socialIcons]]
-name = "KoFi"
-url = "https://ko-fi.com/adityatelange"
 
 [[params.socialIcons]]
 name = "Rss"
