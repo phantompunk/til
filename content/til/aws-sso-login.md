@@ -2,6 +2,7 @@
 title: "Use AWS CLI SSO Login"
 date: 2022-09-19
 draft: false
+url: "aws-sso-login"
 ---
 
 Use the AWS CLI to manage login credentials for SSO-managed accounts. You no longer have to update access keys several times a day.
